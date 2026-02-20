@@ -1,0 +1,43 @@
+#resume {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    gap: 3em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: justify;
+}
+
+#about {
+    text-align: justify;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.background {
+    background-color: #EBF4F6;
+}
+
+h1 {
+    color: #09637E;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: #09637E;
+    font-family: sans-serif;
+}
+p {
+    color: #088395;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    color: #088395;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    color: #088395;
+}
